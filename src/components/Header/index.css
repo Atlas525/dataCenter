@@ -1,0 +1,29 @@
+.header-top{
+    height:50px;
+    line-height: 50px;
+    text-align:right;
+    background: #002140;
+    color:#fff;
+    font-size: 16px
+}
+.ant-dropdown-menu-item, .ant-dropdown-menu-submenu-title{
+    font-size: 16px
+}
+.userLogin{
+    float:right;
+    width:120px;
+    text-align:center;
+    cursor: pointer;
+}
+.userLogin i{
+    font-size: 24px!important;
+}
+.userLogin:hover{
+    background: #4a5f74;
+}
+.ant-dropdown-menu-item, .ant-dropdown-menu-submenu-title{
+    color:#fff;
+}
+.ant-dropdown-menu-item:hover, .ant-dropdown-menu-submenu-title:hover{
+    color:#000;
+}
